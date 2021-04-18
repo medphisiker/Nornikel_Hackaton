@@ -109,3 +109,5 @@ flow_on_frame_img, визуализацию векторов в виде лин�
 
 ![title](https://github.com/TVI-BIZ/NordN/blob/main/6.jpg)
 
+## Ссылка на видео.
+![title](https://youtu.be/K_eIBh0PANU)
