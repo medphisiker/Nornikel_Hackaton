@@ -32,6 +32,7 @@ vid_file= '/content/gdrive/MyDrive/NorNikel_hakaton/dataset1-1/F1_1_1_1.ts'
 зануление векторов скоростей
 
 Будем использовать обученный FlowNet2
+
 ![title](https://github.com/TVI-BIZ/NordN/blob/main/7.jpg)
 
 поумолчанию FlowNet2 будет оценивать скорости поток для всего кадра в том числе
