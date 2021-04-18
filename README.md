@@ -99,6 +99,6 @@ flow_on_frame_img, визуализацию векторов в виде лин�
 
 ## Кадр дополненнный векторами потока
 
-![title](https://github.com/TVI-BIZ/NordN/blob/main/5.png)
+![title](https://github.com/TVI-BIZ/NordN/blob/main/6.jpg)
 
 Антон правка
